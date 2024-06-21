@@ -17,6 +17,8 @@ lucas = {
   }
 }
 
+lucas_is_employed = false
+
 if lucas_is_employed
   puts "Lucas has been employed! 🎉 Lucas will be super happy and a great asset to the company!"
 else
