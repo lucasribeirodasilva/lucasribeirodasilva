@@ -17,8 +17,8 @@ lucas = {
   }
 }
 
-if lucas_got_job
-  puts "Lucas got a job! 🎉 Lucas will be super happy and a great asset to the company!"
+if lucas_is_employed
+  puts "Lucas has been employed! 🎉 Lucas will be super happy and a great asset to the company!"
 else
-  puts "Lucas is still looking for a job. 🔍 Don't miss out on a talented and dedicated software engineer! Hire Lucas and watch your projects soar to new heights! 🚀"
+  puts "Lucas is still looking for a job. 🔍 Don't miss out on a talented and dedicated software engineer! 🚀"
 end```
