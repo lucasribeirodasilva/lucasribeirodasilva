@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Lucas 👋
 
-<!--
-**lucasribeirodasilva/lucasribeirodasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lucas = {
+  about: "👨🏻‍💻 Web Development TA @LeWagonAmsterdam",
+  working_on: [
+    "Web Development TA @ Le Wagon",
+    "Freelancer Developer",
+  ],
+  technologies: {
+    frontend: {
+      languages: ["HTML", "CSS", "JavaScript"]
+      frameworks: ["React (work in progress)", "Vue", "Stimulus.js"]
+    },
+    backend: ["Ruby, Ruby on Rails"],
+    dev_ops: ["Git", "AWS (work in progress)"],
+    databases: ["MySQL", "PostgreSQL"]
+  }
+}
 
-Here are some ideas to get you started:
+lucas_got_job = false
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if lucas_got_job
+  puts "Lucas got a job! 🎉 Lucas will be super happy and a great asset to the company!"
+else
+  puts "Lucas is still looking for a job. 🔍 Don't miss out on a talented and dedicated software engineer! Hire Lucas and watch your projects soar to new heights! 🚀"
+end
