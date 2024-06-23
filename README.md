@@ -8,7 +8,6 @@ lucas = {
   ],
   technologies: {
     frontend: {
-      languages: ["HTML", "CSS", "JavaScript"]
       frameworks: ["React (work in progress)", "Vue", "Stimulus.js"]
     },
     backend: ["Ruby, Ruby on Rails"],
@@ -17,10 +16,10 @@ lucas = {
   }
 }
 
-lucas_is_employed = false
+lucas_is_available_to_work = true
 
-if lucas_is_employed
-  puts "Lucas has been employed! 🎉 Lucas will be super happy and a great asset to the company!"
-else
+if lucas_is_available_to_work == true
   puts "Lucas is still looking for a job. 🔍 Don't miss out on a talented and dedicated software engineer! 🚀"
+else
+  puts "Lucas has been employed! 🎉 Lucas will be super happy and a great asset to the company!"
 end```
