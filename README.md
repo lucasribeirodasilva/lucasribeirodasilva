@@ -4,11 +4,11 @@ lucas = {
   about: "👨🏻‍💻 Web Development TA @LeWagonAmsterdam",
   working_on: [
     "Web Development TA @ Le Wagon",
-    "Freelancer Developer",
+    "Software Developer @ Web Space",
   ],
   technologies: {
     frontend: {
-      frameworks: ["React (work in progress)", "Vue", "Stimulus.js"]
+      frameworks: ["React (work in progress)", "Vue", "Stimulus.js", "Elementor (WordPress)"]
     },
     backend: ["Ruby, Ruby on Rails"],
     dev_ops: ["Git", "AWS (work in progress)"],
