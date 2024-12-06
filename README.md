@@ -1,16 +1,16 @@
 ## Hi there, I'm Lucas 👋
 ```
 lucas = {
-  about: "👨🏻‍💻 Web Development TA @LeWagonAmsterdam",
+  about: "Junior Full-Stack Software Engineer",
   working_on: [
     "Web Development TA @ Le Wagon",
     "Software Developer @ Web Space",
   ],
   technologies: {
     frontend: {
-      frameworks: ["React (work in progress)", "Vue", "Stimulus.js", "Elementor (WordPress)"]
+      frameworks: ["React (work in progress)", "Stimulus.js", "Elementor (WordPress)"]
     },
-    backend: ["Ruby, Ruby on Rails"],
+    backend: ["Ruby, Ruby on Rails, PHP"],
     dev_ops: ["Git", "AWS (work in progress)"],
     databases: ["MySQL", "PostgreSQL"]
   }
