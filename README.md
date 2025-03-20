@@ -3,12 +3,12 @@
 lucas = {
   about: "Junior Full-Stack Software Engineer",
   working_on: [
-    "Web Development TA @ Le Wagon",
+    "Web Development Teacher @ Le Wagon",
     "Software Developer @ Web Space",
   ],
   technologies: {
     frontend: {
-      frameworks: ["React (work in progress)", "Stimulus.js", "Elementor (WordPress)"]
+      frameworks: ["Vue.js, React (work in progress)", "Stimulus.js", "Elementor (WordPress)"]
     },
     backend: ["Ruby, Ruby on Rails, PHP"],
     dev_ops: ["Git", "AWS (work in progress)"],
